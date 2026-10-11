@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1220,100:1e3a5f&height=140&section=header&text=Skander%20Ben%20Sedrine&fontSize=36&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Generative%20AI%20Engineer%20%C2%B7%20Tech%20Lead&descSize=15&descColor=c9d1d9&descAlignY=70" width="100%" alt="Skander Ben Sedrine" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=17&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=640&height=36&lines=LLM+training+on+multi-node+GPU+clusters;Distributed+inference+at+scale;Production+multi-agent+systems+and+RAG;Cloud+platforms%2C+built+and+led+end+to+end" alt="Focus areas" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=17&duration=3500&pause=1200&color=3B82C4&center=true&vCenter=true&width=640&height=36&lines=LLM+training+on+multi-node+GPU+clusters;Distributed+inference+at+scale;Production+multi-agent+systems+and+RAG;Cloud+platforms%2C+built+and+led+end+to+end" alt="Focus areas" />
 
 <a href="https://www.linkedin.com/in/skanderbs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:skander.ben.sedrine23@gmail.com"><img src="https://img.shields.io/badge/Email-1f2937?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -74,5 +74,5 @@ Generative AI Engineer and Tech Lead. I build production AI systems end to end â
 <br/>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=SkanderBS2024&hide_border=true&background=0b1220&stroke=1e3a5f&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&dates=6e7681" alt="Contribution streak" width="560" />
+<img src="https://streak-stats.demolab.com/?user=SkanderBS2024&hide_border=true&background=00000000&stroke=8b949e40&ring=3b82c4&fire=3b82c4&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=3b82c4&sideLabels=8b949e&dates=8b949e" alt="Contribution streak" width="560" />
 </div>
