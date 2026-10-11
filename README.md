@@ -18,10 +18,9 @@
 <br/>
 
 <!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/-%40skander--ben--sedrine-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/skander-ben-sedrine)
+[![LinkedIn](https://img.shields.io/badge/-%40skanderbs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skanderbs/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skander.ben.sedrine23@gmail.com)
 [![GitHub](https://img.shields.io/badge/-SkanderBS2024-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SkanderBS2024)
-![Views](https://komarev.com/ghpvc/?username=SkanderBS2024&style=for-the-badge&color=161b22&label=PROFILE+VIEWS)
 
 </div>
 
